@@ -33,8 +33,37 @@ EduShield uses a modular monolith architecture suitable for a hackathon:
 - `/docs`: Architecture and decision documentation
 - `/scripts`: Utility scripts
 
-## Local Development
-*(To be populated as components are implemented)*
+## Setup Instructions & Local Development
+
+This project uses a modular monolith architecture but runs from the project root.
+
+### 1. Backend & ML Setup
+Open a terminal in the project root (`EduShield/`):
+```powershell
+# Create and activate virtual environment (if not already done)
+python -m venv backend/venv
+.\backend\venv\Scripts\activate
+
+# Install requirements for backend and ML
+pip install -r backend/requirements.txt
+pip install -r ml/requirements.txt
+
+# Initialize and seed the SQLite database (MUST be run from project root)
+python -m backend.app.db.init_db
+
+# Start the FastAPI server
+uvicorn backend.app.main:app --reload
+```
+The backend will be available at `http://127.0.0.1:8000`.
+
+### 2. Frontend Setup
+Open a second terminal in the `frontend/` directory:
+```powershell
+cd frontend
+npm install
+npm run dev
+```
+The frontend will be available at `http://localhost:5173`.
 
 ## Future Roadmap
 - State-level and Pan-India education intelligence
