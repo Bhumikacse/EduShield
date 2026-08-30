@@ -48,6 +48,7 @@ pip install -r ml/requirements.txt
 
 # Initialize and seed the SQLite database (MUST be run from project root)
 python -m backend.app.db.init_db
+python scripts/generate_predictions.py
 
 # Start the FastAPI server
 uvicorn backend.app.main:app --reload

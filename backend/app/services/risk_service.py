@@ -31,7 +31,11 @@ def get_risk_trajectory(change):
     if change > 0.1: return "DECREASING"
     return "STABLE"
 
-def generate_prediction(db: Session, student_id: str) -> RiskPrediction:
+def generate_prediction(
+    db: Session,
+    student_id: str,
+    persist: bool = False
+) -> RiskPrediction:
     student = db.query(Student).filter(Student.student_id == student_id).first()
     if not student:
         raise ValueError(f"Student {student_id} not found")
@@ -167,28 +171,32 @@ def generate_prediction(db: Session, student_id: str) -> RiskPrediction:
     
     trajectory = get_risk_trajectory(df['gpa_change'].iloc[0])
     
-    # 4. Save Prediction
-    prediction = Prediction(
-        student_id=student_id,
-        risk_score=risk_score,
-        risk_level=risk_level,
-        prediction_horizon="NEXT_ACADEMIC_PERIOD",
-        risk_factors=[f.model_dump() for f in top_factors],
-        protective_factors=[f.model_dump() for f in top_protective],
-        model_version="v1"
-    )
-    db.add(prediction)
-    db.commit()
-    db.refresh(prediction)
-    
-    return RiskPrediction(
-        student_id=student_id,
-        risk_score=risk_score,
-        risk_level=risk_level,
-        trajectory=trajectory,
-        prediction_horizon="NEXT_ACADEMIC_PERIOD",
-        risk_factors=top_factors,
-        protective_factors=top_protective,
-        model_version="v1",
-        prediction_date=prediction.prediction_date
-    )
+    # 4. Optionally persist a prediction snapshot.
+    prediction_date = None
+
+    if persist:
+        prediction = Prediction(
+            student_id=student_id,
+            risk_score=risk_score,
+            risk_level=risk_level,
+            prediction_horizon="NEXT_ACADEMIC_PERIOD",
+            risk_factors=[f.model_dump() for f in top_factors],
+            protective_factors=[f.model_dump() for f in top_protective],
+            model_version="v1"
+        )
+        db.add(prediction)
+        db.commit()
+        db.refresh(prediction)
+        prediction_date = prediction.prediction_date
+
+        return RiskPrediction(
+            student_id=student_id,
+            risk_score=risk_score,
+            risk_level=risk_level,
+            trajectory=trajectory,
+            prediction_horizon="NEXT_ACADEMIC_PERIOD",
+            risk_factors=top_factors,
+            protective_factors=top_protective,
+            model_version="v1",
+            prediction_date=prediction_date
+        )
