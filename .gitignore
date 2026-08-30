@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+.idea/
+.vscode/
+data/raw/
+data/processed/
