@@ -1,0 +1,2501 @@
+student_id,name,college,department,degree,year,semester,enrollment_year,target_withdrawal
+STU0001,Student 1,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0002,Student 2,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0003,Student 3,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0004,Student 4,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0005,Student 5,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0006,Student 6,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU0007,Student 7,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0008,Student 8,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU0009,Student 9,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0010,Student 10,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0011,Student 11,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU0012,Student 12,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0013,Student 13,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0014,Student 14,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0015,Student 15,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0016,Student 16,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0017,Student 17,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU0018,Student 18,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0019,Student 19,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0020,Student 20,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0021,Student 21,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0022,Student 22,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0023,Student 23,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0024,Student 24,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0025,Student 25,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0026,Student 26,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0027,Student 27,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0028,Student 28,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0029,Student 29,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU0030,Student 30,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0031,Student 31,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0032,Student 32,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0033,Student 33,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0034,Student 34,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0035,Student 35,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU0036,Student 36,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0037,Student 37,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0038,Student 38,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU0039,Student 39,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0040,Student 40,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0041,Student 41,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0042,Student 42,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0043,Student 43,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0044,Student 44,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0045,Student 45,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU0046,Student 46,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0047,Student 47,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU0048,Student 48,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0049,Student 49,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0050,Student 50,Engineering College A,Business,B.Tech,3,2,2023,1
+STU0051,Student 51,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU0052,Student 52,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0053,Student 53,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0054,Student 54,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU0055,Student 55,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0056,Student 56,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0057,Student 57,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0058,Student 58,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0059,Student 59,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU0060,Student 60,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0061,Student 61,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0062,Student 62,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0063,Student 63,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0064,Student 64,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0065,Student 65,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0066,Student 66,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0067,Student 67,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0068,Student 68,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0069,Student 69,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0070,Student 70,Engineering College A,Business,B.Tech,3,2,2023,1
+STU0071,Student 71,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0072,Student 72,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0073,Student 73,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0074,Student 74,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0075,Student 75,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0076,Student 76,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0077,Student 77,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0078,Student 78,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0079,Student 79,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0080,Student 80,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0081,Student 81,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0082,Student 82,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0083,Student 83,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0084,Student 84,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0085,Student 85,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0086,Student 86,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0087,Student 87,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0088,Student 88,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0089,Student 89,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0090,Student 90,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0091,Student 91,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0092,Student 92,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0093,Student 93,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0094,Student 94,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0095,Student 95,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0096,Student 96,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0097,Student 97,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0098,Student 98,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0099,Student 99,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0100,Student 100,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU0101,Student 101,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0102,Student 102,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU0103,Student 103,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0104,Student 104,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0105,Student 105,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0106,Student 106,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0107,Student 107,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0108,Student 108,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0109,Student 109,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0110,Student 110,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0111,Student 111,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0112,Student 112,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU0113,Student 113,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0114,Student 114,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0115,Student 115,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0116,Student 116,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0117,Student 117,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0118,Student 118,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0119,Student 119,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0120,Student 120,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0121,Student 121,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0122,Student 122,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0123,Student 123,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0124,Student 124,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0125,Student 125,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0126,Student 126,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0127,Student 127,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0128,Student 128,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0129,Student 129,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0130,Student 130,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0131,Student 131,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0132,Student 132,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0133,Student 133,Engineering College A,Business,B.Tech,3,2,2023,1
+STU0134,Student 134,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0135,Student 135,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0136,Student 136,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0137,Student 137,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0138,Student 138,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0139,Student 139,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0140,Student 140,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0141,Student 141,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0142,Student 142,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0143,Student 143,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0144,Student 144,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0145,Student 145,Engineering College A,Business,B.Tech,2,2,2023,1
+STU0146,Student 146,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0147,Student 147,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0148,Student 148,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0149,Student 149,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0150,Student 150,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0151,Student 151,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0152,Student 152,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0153,Student 153,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0154,Student 154,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0155,Student 155,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU0156,Student 156,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0157,Student 157,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0158,Student 158,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0159,Student 159,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0160,Student 160,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0161,Student 161,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0162,Student 162,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0163,Student 163,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0164,Student 164,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0165,Student 165,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0166,Student 166,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0167,Student 167,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU0168,Student 168,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0169,Student 169,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0170,Student 170,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0171,Student 171,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0172,Student 172,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0173,Student 173,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0174,Student 174,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0175,Student 175,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0176,Student 176,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0177,Student 177,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0178,Student 178,Engineering College A,Business,B.Tech,4,2,2023,1
+STU0179,Student 179,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0180,Student 180,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0181,Student 181,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0182,Student 182,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0183,Student 183,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0184,Student 184,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU0185,Student 185,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0186,Student 186,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0187,Student 187,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0188,Student 188,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0189,Student 189,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0190,Student 190,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0191,Student 191,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0192,Student 192,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU0193,Student 193,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0194,Student 194,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0195,Student 195,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0196,Student 196,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0197,Student 197,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0198,Student 198,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0199,Student 199,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU0200,Student 200,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0201,Student 201,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0202,Student 202,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0203,Student 203,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU0204,Student 204,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0205,Student 205,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0206,Student 206,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0207,Student 207,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0208,Student 208,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0209,Student 209,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0210,Student 210,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0211,Student 211,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0212,Student 212,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0213,Student 213,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0214,Student 214,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0215,Student 215,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU0216,Student 216,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0217,Student 217,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0218,Student 218,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0219,Student 219,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0220,Student 220,Engineering College A,Business,B.Tech,4,1,2023,1
+STU0221,Student 221,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0222,Student 222,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0223,Student 223,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0224,Student 224,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0225,Student 225,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0226,Student 226,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0227,Student 227,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0228,Student 228,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0229,Student 229,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU0230,Student 230,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0231,Student 231,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0232,Student 232,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0233,Student 233,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0234,Student 234,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0235,Student 235,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0236,Student 236,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0237,Student 237,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0238,Student 238,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0239,Student 239,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0240,Student 240,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0241,Student 241,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0242,Student 242,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU0243,Student 243,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0244,Student 244,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0245,Student 245,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0246,Student 246,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0247,Student 247,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0248,Student 248,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0249,Student 249,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU0250,Student 250,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU0251,Student 251,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0252,Student 252,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0253,Student 253,Engineering College A,Business,B.Tech,2,2,2023,1
+STU0254,Student 254,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0255,Student 255,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0256,Student 256,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0257,Student 257,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU0258,Student 258,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0259,Student 259,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0260,Student 260,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0261,Student 261,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU0262,Student 262,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0263,Student 263,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0264,Student 264,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0265,Student 265,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0266,Student 266,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0267,Student 267,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0268,Student 268,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0269,Student 269,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0270,Student 270,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0271,Student 271,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0272,Student 272,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0273,Student 273,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0274,Student 274,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU0275,Student 275,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0276,Student 276,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0277,Student 277,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU0278,Student 278,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0279,Student 279,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0280,Student 280,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0281,Student 281,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0282,Student 282,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0283,Student 283,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0284,Student 284,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0285,Student 285,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0286,Student 286,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0287,Student 287,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0288,Student 288,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0289,Student 289,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0290,Student 290,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0291,Student 291,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0292,Student 292,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0293,Student 293,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0294,Student 294,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0295,Student 295,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0296,Student 296,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0297,Student 297,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU0298,Student 298,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0299,Student 299,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0300,Student 300,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0301,Student 301,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0302,Student 302,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0303,Student 303,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0304,Student 304,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0305,Student 305,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0306,Student 306,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU0307,Student 307,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0308,Student 308,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0309,Student 309,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0310,Student 310,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0311,Student 311,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0312,Student 312,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0313,Student 313,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0314,Student 314,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0315,Student 315,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0316,Student 316,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0317,Student 317,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0318,Student 318,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU0319,Student 319,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU0320,Student 320,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0321,Student 321,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0322,Student 322,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0323,Student 323,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0324,Student 324,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0325,Student 325,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0326,Student 326,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0327,Student 327,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0328,Student 328,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU0329,Student 329,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0330,Student 330,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU0331,Student 331,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0332,Student 332,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0333,Student 333,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0334,Student 334,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0335,Student 335,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0336,Student 336,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0337,Student 337,Engineering College A,Business,B.Tech,2,1,2023,1
+STU0338,Student 338,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0339,Student 339,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0340,Student 340,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0341,Student 341,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0342,Student 342,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0343,Student 343,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0344,Student 344,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0345,Student 345,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0346,Student 346,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0347,Student 347,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0348,Student 348,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0349,Student 349,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0350,Student 350,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0351,Student 351,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0352,Student 352,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU0353,Student 353,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0354,Student 354,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0355,Student 355,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0356,Student 356,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0357,Student 357,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0358,Student 358,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU0359,Student 359,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0360,Student 360,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0361,Student 361,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0362,Student 362,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0363,Student 363,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0364,Student 364,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0365,Student 365,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0366,Student 366,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0367,Student 367,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0368,Student 368,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU0369,Student 369,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0370,Student 370,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0371,Student 371,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0372,Student 372,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0373,Student 373,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0374,Student 374,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0375,Student 375,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0376,Student 376,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0377,Student 377,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0378,Student 378,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0379,Student 379,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0380,Student 380,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0381,Student 381,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0382,Student 382,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0383,Student 383,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0384,Student 384,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0385,Student 385,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0386,Student 386,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0387,Student 387,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0388,Student 388,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0389,Student 389,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0390,Student 390,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0391,Student 391,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0392,Student 392,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0393,Student 393,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0394,Student 394,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0395,Student 395,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0396,Student 396,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU0397,Student 397,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0398,Student 398,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0399,Student 399,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0400,Student 400,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0401,Student 401,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU0402,Student 402,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0403,Student 403,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0404,Student 404,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0405,Student 405,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0406,Student 406,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0407,Student 407,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0408,Student 408,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0409,Student 409,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0410,Student 410,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0411,Student 411,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0412,Student 412,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0413,Student 413,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0414,Student 414,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0415,Student 415,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0416,Student 416,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0417,Student 417,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0418,Student 418,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0419,Student 419,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0420,Student 420,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0421,Student 421,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0422,Student 422,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0423,Student 423,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0424,Student 424,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0425,Student 425,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0426,Student 426,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0427,Student 427,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0428,Student 428,Engineering College A,Business,B.Tech,2,1,2023,1
+STU0429,Student 429,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0430,Student 430,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0431,Student 431,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0432,Student 432,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0433,Student 433,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0434,Student 434,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0435,Student 435,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0436,Student 436,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0437,Student 437,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0438,Student 438,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0439,Student 439,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0440,Student 440,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0441,Student 441,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0442,Student 442,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU0443,Student 443,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0444,Student 444,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0445,Student 445,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0446,Student 446,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0447,Student 447,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0448,Student 448,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0449,Student 449,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0450,Student 450,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0451,Student 451,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0452,Student 452,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0453,Student 453,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0454,Student 454,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0455,Student 455,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0456,Student 456,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0457,Student 457,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0458,Student 458,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0459,Student 459,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0460,Student 460,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0461,Student 461,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0462,Student 462,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0463,Student 463,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0464,Student 464,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0465,Student 465,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0466,Student 466,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0467,Student 467,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0468,Student 468,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0469,Student 469,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0470,Student 470,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0471,Student 471,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0472,Student 472,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU0473,Student 473,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0474,Student 474,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0475,Student 475,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0476,Student 476,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0477,Student 477,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0478,Student 478,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0479,Student 479,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU0480,Student 480,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0481,Student 481,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0482,Student 482,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0483,Student 483,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0484,Student 484,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0485,Student 485,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0486,Student 486,Engineering College A,Business,B.Tech,4,2,2023,1
+STU0487,Student 487,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU0488,Student 488,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0489,Student 489,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU0490,Student 490,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0491,Student 491,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0492,Student 492,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0493,Student 493,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0494,Student 494,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0495,Student 495,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU0496,Student 496,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0497,Student 497,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0498,Student 498,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0499,Student 499,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0500,Student 500,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0501,Student 501,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0502,Student 502,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0503,Student 503,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0504,Student 504,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0505,Student 505,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0506,Student 506,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0507,Student 507,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0508,Student 508,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0509,Student 509,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0510,Student 510,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU0511,Student 511,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0512,Student 512,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0513,Student 513,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0514,Student 514,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU0515,Student 515,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0516,Student 516,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0517,Student 517,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0518,Student 518,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0519,Student 519,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0520,Student 520,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0521,Student 521,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0522,Student 522,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0523,Student 523,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0524,Student 524,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0525,Student 525,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU0526,Student 526,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0527,Student 527,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0528,Student 528,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0529,Student 529,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0530,Student 530,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU0531,Student 531,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0532,Student 532,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU0533,Student 533,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0534,Student 534,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0535,Student 535,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0536,Student 536,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0537,Student 537,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0538,Student 538,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0539,Student 539,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU0540,Student 540,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0541,Student 541,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0542,Student 542,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0543,Student 543,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0544,Student 544,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0545,Student 545,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0546,Student 546,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0547,Student 547,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0548,Student 548,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0549,Student 549,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0550,Student 550,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0551,Student 551,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0552,Student 552,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU0553,Student 553,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0554,Student 554,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0555,Student 555,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0556,Student 556,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0557,Student 557,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0558,Student 558,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0559,Student 559,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0560,Student 560,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0561,Student 561,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0562,Student 562,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0563,Student 563,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0564,Student 564,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0565,Student 565,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0566,Student 566,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0567,Student 567,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0568,Student 568,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0569,Student 569,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0570,Student 570,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0571,Student 571,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0572,Student 572,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0573,Student 573,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0574,Student 574,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0575,Student 575,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0576,Student 576,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU0577,Student 577,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0578,Student 578,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0579,Student 579,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0580,Student 580,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0581,Student 581,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0582,Student 582,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0583,Student 583,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0584,Student 584,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0585,Student 585,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0586,Student 586,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0587,Student 587,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0588,Student 588,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU0589,Student 589,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0590,Student 590,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0591,Student 591,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0592,Student 592,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0593,Student 593,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0594,Student 594,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0595,Student 595,Engineering College A,Business,B.Tech,4,1,2023,1
+STU0596,Student 596,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0597,Student 597,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0598,Student 598,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU0599,Student 599,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU0600,Student 600,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0601,Student 601,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU0602,Student 602,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0603,Student 603,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0604,Student 604,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0605,Student 605,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0606,Student 606,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0607,Student 607,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0608,Student 608,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0609,Student 609,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0610,Student 610,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0611,Student 611,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0612,Student 612,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0613,Student 613,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0614,Student 614,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0615,Student 615,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0616,Student 616,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU0617,Student 617,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0618,Student 618,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU0619,Student 619,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0620,Student 620,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0621,Student 621,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0622,Student 622,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0623,Student 623,Engineering College A,Business,B.Tech,4,2,2023,1
+STU0624,Student 624,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0625,Student 625,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0626,Student 626,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0627,Student 627,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0628,Student 628,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU0629,Student 629,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0630,Student 630,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0631,Student 631,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0632,Student 632,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU0633,Student 633,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0634,Student 634,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0635,Student 635,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0636,Student 636,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0637,Student 637,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0638,Student 638,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0639,Student 639,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0640,Student 640,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0641,Student 641,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0642,Student 642,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0643,Student 643,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0644,Student 644,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0645,Student 645,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0646,Student 646,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0647,Student 647,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0648,Student 648,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0649,Student 649,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0650,Student 650,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0651,Student 651,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0652,Student 652,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0653,Student 653,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0654,Student 654,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0655,Student 655,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0656,Student 656,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0657,Student 657,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0658,Student 658,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU0659,Student 659,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0660,Student 660,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0661,Student 661,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0662,Student 662,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0663,Student 663,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0664,Student 664,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0665,Student 665,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU0666,Student 666,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0667,Student 667,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0668,Student 668,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU0669,Student 669,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0670,Student 670,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0671,Student 671,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0672,Student 672,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0673,Student 673,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0674,Student 674,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0675,Student 675,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0676,Student 676,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0677,Student 677,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0678,Student 678,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0679,Student 679,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU0680,Student 680,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU0681,Student 681,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0682,Student 682,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0683,Student 683,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0684,Student 684,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0685,Student 685,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0686,Student 686,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0687,Student 687,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0688,Student 688,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0689,Student 689,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0690,Student 690,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0691,Student 691,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0692,Student 692,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0693,Student 693,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0694,Student 694,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0695,Student 695,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0696,Student 696,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0697,Student 697,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0698,Student 698,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0699,Student 699,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0700,Student 700,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0701,Student 701,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0702,Student 702,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0703,Student 703,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0704,Student 704,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0705,Student 705,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0706,Student 706,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0707,Student 707,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0708,Student 708,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0709,Student 709,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0710,Student 710,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0711,Student 711,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0712,Student 712,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0713,Student 713,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0714,Student 714,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0715,Student 715,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0716,Student 716,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0717,Student 717,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0718,Student 718,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0719,Student 719,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0720,Student 720,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0721,Student 721,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0722,Student 722,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0723,Student 723,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU0724,Student 724,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU0725,Student 725,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0726,Student 726,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0727,Student 727,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0728,Student 728,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0729,Student 729,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU0730,Student 730,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0731,Student 731,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0732,Student 732,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0733,Student 733,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0734,Student 734,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU0735,Student 735,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0736,Student 736,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU0737,Student 737,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0738,Student 738,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0739,Student 739,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0740,Student 740,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0741,Student 741,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0742,Student 742,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0743,Student 743,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0744,Student 744,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0745,Student 745,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0746,Student 746,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0747,Student 747,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0748,Student 748,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0749,Student 749,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0750,Student 750,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0751,Student 751,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0752,Student 752,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0753,Student 753,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0754,Student 754,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0755,Student 755,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0756,Student 756,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU0757,Student 757,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0758,Student 758,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0759,Student 759,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU0760,Student 760,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0761,Student 761,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0762,Student 762,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0763,Student 763,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0764,Student 764,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0765,Student 765,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0766,Student 766,Engineering College A,Business,B.Tech,2,1,2023,1
+STU0767,Student 767,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0768,Student 768,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0769,Student 769,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0770,Student 770,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0771,Student 771,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0772,Student 772,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU0773,Student 773,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0774,Student 774,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0775,Student 775,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0776,Student 776,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0777,Student 777,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0778,Student 778,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0779,Student 779,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0780,Student 780,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0781,Student 781,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0782,Student 782,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0783,Student 783,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0784,Student 784,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0785,Student 785,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0786,Student 786,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0787,Student 787,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0788,Student 788,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0789,Student 789,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0790,Student 790,Engineering College A,Business,B.Tech,2,1,2023,1
+STU0791,Student 791,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0792,Student 792,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0793,Student 793,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0794,Student 794,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0795,Student 795,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0796,Student 796,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0797,Student 797,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0798,Student 798,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0799,Student 799,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0800,Student 800,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0801,Student 801,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0802,Student 802,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0803,Student 803,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0804,Student 804,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0805,Student 805,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0806,Student 806,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0807,Student 807,Engineering College A,Business,B.Tech,3,2,2023,1
+STU0808,Student 808,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0809,Student 809,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0810,Student 810,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0811,Student 811,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU0812,Student 812,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0813,Student 813,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0814,Student 814,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0815,Student 815,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0816,Student 816,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0817,Student 817,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0818,Student 818,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU0819,Student 819,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0820,Student 820,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0821,Student 821,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0822,Student 822,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0823,Student 823,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0824,Student 824,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0825,Student 825,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0826,Student 826,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU0827,Student 827,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0828,Student 828,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0829,Student 829,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0830,Student 830,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0831,Student 831,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0832,Student 832,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0833,Student 833,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0834,Student 834,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0835,Student 835,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0836,Student 836,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0837,Student 837,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU0838,Student 838,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0839,Student 839,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0840,Student 840,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0841,Student 841,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0842,Student 842,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0843,Student 843,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0844,Student 844,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0845,Student 845,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0846,Student 846,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0847,Student 847,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0848,Student 848,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0849,Student 849,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0850,Student 850,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0851,Student 851,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0852,Student 852,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0853,Student 853,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU0854,Student 854,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU0855,Student 855,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0856,Student 856,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU0857,Student 857,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0858,Student 858,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0859,Student 859,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0860,Student 860,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0861,Student 861,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0862,Student 862,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0863,Student 863,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0864,Student 864,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0865,Student 865,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0866,Student 866,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0867,Student 867,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0868,Student 868,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0869,Student 869,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0870,Student 870,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU0871,Student 871,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0872,Student 872,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0873,Student 873,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0874,Student 874,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0875,Student 875,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU0876,Student 876,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0877,Student 877,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0878,Student 878,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0879,Student 879,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU0880,Student 880,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0881,Student 881,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0882,Student 882,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0883,Student 883,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU0884,Student 884,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0885,Student 885,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU0886,Student 886,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0887,Student 887,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0888,Student 888,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0889,Student 889,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU0890,Student 890,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0891,Student 891,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0892,Student 892,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU0893,Student 893,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU0894,Student 894,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0895,Student 895,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0896,Student 896,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0897,Student 897,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU0898,Student 898,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0899,Student 899,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0900,Student 900,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0901,Student 901,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0902,Student 902,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU0903,Student 903,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0904,Student 904,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0905,Student 905,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0906,Student 906,Engineering College A,Business,B.Tech,3,2,2023,1
+STU0907,Student 907,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU0908,Student 908,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0909,Student 909,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0910,Student 910,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU0911,Student 911,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0912,Student 912,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU0913,Student 913,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU0914,Student 914,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0915,Student 915,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0916,Student 916,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0917,Student 917,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0918,Student 918,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU0919,Student 919,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0920,Student 920,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU0921,Student 921,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU0922,Student 922,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0923,Student 923,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU0924,Student 924,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0925,Student 925,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0926,Student 926,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0927,Student 927,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU0928,Student 928,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0929,Student 929,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU0930,Student 930,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU0931,Student 931,Engineering College A,Business,B.Tech,2,2,2023,0
+STU0932,Student 932,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU0933,Student 933,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU0934,Student 934,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0935,Student 935,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0936,Student 936,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU0937,Student 937,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0938,Student 938,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU0939,Student 939,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0940,Student 940,Engineering College A,Business,B.Tech,3,1,2023,0
+STU0941,Student 941,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0942,Student 942,Engineering College A,Business,B.Tech,1,1,2023,0
+STU0943,Student 943,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0944,Student 944,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0945,Student 945,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU0946,Student 946,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0947,Student 947,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0948,Student 948,Engineering College A,Business,B.Tech,3,1,2023,1
+STU0949,Student 949,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU0950,Student 950,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU0951,Student 951,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0952,Student 952,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0953,Student 953,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU0954,Student 954,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU0955,Student 955,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU0956,Student 956,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0957,Student 957,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0958,Student 958,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0959,Student 959,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU0960,Student 960,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU0961,Student 961,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU0962,Student 962,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU0963,Student 963,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0964,Student 964,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0965,Student 965,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0966,Student 966,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU0967,Student 967,Engineering College A,Business,B.Tech,2,1,2023,0
+STU0968,Student 968,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0969,Student 969,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU0970,Student 970,Engineering College A,Business,B.Tech,1,2,2023,0
+STU0971,Student 971,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU0972,Student 972,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU0973,Student 973,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0974,Student 974,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU0975,Student 975,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU0976,Student 976,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0977,Student 977,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0978,Student 978,Engineering College A,Business,B.Tech,4,2,2023,0
+STU0979,Student 979,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0980,Student 980,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU0981,Student 981,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0982,Student 982,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU0983,Student 983,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU0984,Student 984,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU0985,Student 985,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU0986,Student 986,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU0987,Student 987,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU0988,Student 988,Engineering College A,Business,B.Tech,1,1,2023,1
+STU0989,Student 989,Engineering College A,Business,B.Tech,1,2,2023,1
+STU0990,Student 990,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0991,Student 991,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU0992,Student 992,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU0993,Student 993,Engineering College A,Business,B.Tech,3,2,2023,0
+STU0994,Student 994,Engineering College A,Business,B.Tech,4,1,2023,0
+STU0995,Student 995,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU0996,Student 996,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU0997,Student 997,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU0998,Student 998,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU0999,Student 999,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU1000,Student 1000,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1001,Student 1001,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1002,Student 1002,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1003,Student 1003,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1004,Student 1004,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU1005,Student 1005,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1006,Student 1006,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1007,Student 1007,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1008,Student 1008,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1009,Student 1009,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1010,Student 1010,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1011,Student 1011,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1012,Student 1012,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1013,Student 1013,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU1014,Student 1014,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1015,Student 1015,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1016,Student 1016,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1017,Student 1017,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU1018,Student 1018,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1019,Student 1019,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1020,Student 1020,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1021,Student 1021,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1022,Student 1022,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1023,Student 1023,Engineering College A,Business,B.Tech,4,2,2023,1
+STU1024,Student 1024,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1025,Student 1025,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1026,Student 1026,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1027,Student 1027,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1028,Student 1028,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1029,Student 1029,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1030,Student 1030,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1031,Student 1031,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1032,Student 1032,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1033,Student 1033,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1034,Student 1034,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1035,Student 1035,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1036,Student 1036,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1037,Student 1037,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1038,Student 1038,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1039,Student 1039,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1040,Student 1040,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1041,Student 1041,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1042,Student 1042,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1043,Student 1043,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1044,Student 1044,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1045,Student 1045,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1046,Student 1046,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1047,Student 1047,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1048,Student 1048,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1049,Student 1049,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1050,Student 1050,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1051,Student 1051,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1052,Student 1052,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1053,Student 1053,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1054,Student 1054,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1055,Student 1055,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1056,Student 1056,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1057,Student 1057,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1058,Student 1058,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1059,Student 1059,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1060,Student 1060,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1061,Student 1061,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU1062,Student 1062,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1063,Student 1063,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1064,Student 1064,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1065,Student 1065,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1066,Student 1066,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1067,Student 1067,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1068,Student 1068,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1069,Student 1069,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1070,Student 1070,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1071,Student 1071,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1072,Student 1072,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1073,Student 1073,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1074,Student 1074,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1075,Student 1075,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1076,Student 1076,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1077,Student 1077,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1078,Student 1078,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1079,Student 1079,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1080,Student 1080,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU1081,Student 1081,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1082,Student 1082,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1083,Student 1083,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1084,Student 1084,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1085,Student 1085,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1086,Student 1086,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1087,Student 1087,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1088,Student 1088,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1089,Student 1089,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1090,Student 1090,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1091,Student 1091,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU1092,Student 1092,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1093,Student 1093,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1094,Student 1094,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1095,Student 1095,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1096,Student 1096,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1097,Student 1097,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1098,Student 1098,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1099,Student 1099,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1100,Student 1100,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1101,Student 1101,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1102,Student 1102,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1103,Student 1103,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU1104,Student 1104,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1105,Student 1105,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1106,Student 1106,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1107,Student 1107,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1108,Student 1108,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1109,Student 1109,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1110,Student 1110,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1111,Student 1111,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1112,Student 1112,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1113,Student 1113,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1114,Student 1114,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1115,Student 1115,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1116,Student 1116,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1117,Student 1117,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1118,Student 1118,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1119,Student 1119,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1120,Student 1120,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1121,Student 1121,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1122,Student 1122,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU1123,Student 1123,Engineering College A,Business,B.Tech,4,2,2023,1
+STU1124,Student 1124,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1125,Student 1125,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1126,Student 1126,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1127,Student 1127,Engineering College A,Business,B.Tech,1,1,2023,1
+STU1128,Student 1128,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1129,Student 1129,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1130,Student 1130,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1131,Student 1131,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1132,Student 1132,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1133,Student 1133,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1134,Student 1134,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1135,Student 1135,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1136,Student 1136,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1137,Student 1137,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1138,Student 1138,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1139,Student 1139,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1140,Student 1140,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1141,Student 1141,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1142,Student 1142,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1143,Student 1143,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1144,Student 1144,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1145,Student 1145,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1146,Student 1146,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU1147,Student 1147,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1148,Student 1148,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1149,Student 1149,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU1150,Student 1150,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU1151,Student 1151,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1152,Student 1152,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1153,Student 1153,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1154,Student 1154,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1155,Student 1155,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1156,Student 1156,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1157,Student 1157,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1158,Student 1158,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1159,Student 1159,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1160,Student 1160,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1161,Student 1161,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1162,Student 1162,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1163,Student 1163,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1164,Student 1164,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1165,Student 1165,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1166,Student 1166,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1167,Student 1167,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1168,Student 1168,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1169,Student 1169,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1170,Student 1170,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1171,Student 1171,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1172,Student 1172,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1173,Student 1173,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1174,Student 1174,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1175,Student 1175,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1176,Student 1176,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1177,Student 1177,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1178,Student 1178,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1179,Student 1179,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1180,Student 1180,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1181,Student 1181,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1182,Student 1182,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1183,Student 1183,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1184,Student 1184,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1185,Student 1185,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1186,Student 1186,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1187,Student 1187,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1188,Student 1188,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1189,Student 1189,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU1190,Student 1190,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU1191,Student 1191,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1192,Student 1192,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1193,Student 1193,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1194,Student 1194,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1195,Student 1195,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1196,Student 1196,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1197,Student 1197,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1198,Student 1198,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1199,Student 1199,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1200,Student 1200,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1201,Student 1201,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1202,Student 1202,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1203,Student 1203,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1204,Student 1204,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1205,Student 1205,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1206,Student 1206,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1207,Student 1207,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1208,Student 1208,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1209,Student 1209,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1210,Student 1210,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1211,Student 1211,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU1212,Student 1212,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1213,Student 1213,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1214,Student 1214,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1215,Student 1215,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1216,Student 1216,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1217,Student 1217,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1218,Student 1218,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1219,Student 1219,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1220,Student 1220,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1221,Student 1221,Engineering College A,Business,B.Tech,1,2,2023,1
+STU1222,Student 1222,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1223,Student 1223,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1224,Student 1224,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU1225,Student 1225,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1226,Student 1226,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1227,Student 1227,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU1228,Student 1228,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1229,Student 1229,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1230,Student 1230,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1231,Student 1231,Engineering College A,Business,B.Tech,1,1,2023,1
+STU1232,Student 1232,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1233,Student 1233,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1234,Student 1234,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1235,Student 1235,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1236,Student 1236,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1237,Student 1237,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1238,Student 1238,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1239,Student 1239,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU1240,Student 1240,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1241,Student 1241,Engineering College A,Business,B.Tech,2,1,2023,1
+STU1242,Student 1242,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1243,Student 1243,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1244,Student 1244,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1245,Student 1245,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1246,Student 1246,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1247,Student 1247,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1248,Student 1248,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1249,Student 1249,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1250,Student 1250,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1251,Student 1251,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1252,Student 1252,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1253,Student 1253,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1254,Student 1254,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1255,Student 1255,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1256,Student 1256,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1257,Student 1257,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1258,Student 1258,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1259,Student 1259,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1260,Student 1260,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1261,Student 1261,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1262,Student 1262,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1263,Student 1263,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1264,Student 1264,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1265,Student 1265,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1266,Student 1266,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1267,Student 1267,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1268,Student 1268,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1269,Student 1269,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1270,Student 1270,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU1271,Student 1271,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1272,Student 1272,Engineering College A,Business,B.Tech,3,2,2023,1
+STU1273,Student 1273,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1274,Student 1274,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1275,Student 1275,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1276,Student 1276,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1277,Student 1277,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1278,Student 1278,Engineering College A,Business,B.Tech,3,2,2023,1
+STU1279,Student 1279,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1280,Student 1280,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1281,Student 1281,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1282,Student 1282,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1283,Student 1283,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1284,Student 1284,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1285,Student 1285,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1286,Student 1286,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1287,Student 1287,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1288,Student 1288,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1289,Student 1289,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1290,Student 1290,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1291,Student 1291,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1292,Student 1292,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU1293,Student 1293,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1294,Student 1294,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1295,Student 1295,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1296,Student 1296,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1297,Student 1297,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1298,Student 1298,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1299,Student 1299,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1300,Student 1300,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1301,Student 1301,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1302,Student 1302,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1303,Student 1303,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1304,Student 1304,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1305,Student 1305,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1306,Student 1306,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU1307,Student 1307,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1308,Student 1308,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1309,Student 1309,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1310,Student 1310,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1311,Student 1311,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1312,Student 1312,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1313,Student 1313,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1314,Student 1314,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1315,Student 1315,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1316,Student 1316,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1317,Student 1317,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1318,Student 1318,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1319,Student 1319,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1320,Student 1320,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1321,Student 1321,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1322,Student 1322,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1323,Student 1323,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU1324,Student 1324,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1325,Student 1325,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1326,Student 1326,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1327,Student 1327,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1328,Student 1328,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1329,Student 1329,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1330,Student 1330,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1331,Student 1331,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1332,Student 1332,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1333,Student 1333,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1334,Student 1334,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU1335,Student 1335,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1336,Student 1336,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1337,Student 1337,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1338,Student 1338,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1339,Student 1339,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1340,Student 1340,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1341,Student 1341,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1342,Student 1342,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1343,Student 1343,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU1344,Student 1344,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1345,Student 1345,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1346,Student 1346,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1347,Student 1347,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1348,Student 1348,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1349,Student 1349,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1350,Student 1350,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1351,Student 1351,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU1352,Student 1352,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1353,Student 1353,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1354,Student 1354,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1355,Student 1355,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1356,Student 1356,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1357,Student 1357,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1358,Student 1358,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1359,Student 1359,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1360,Student 1360,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1361,Student 1361,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1362,Student 1362,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1363,Student 1363,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1364,Student 1364,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1365,Student 1365,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1366,Student 1366,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1367,Student 1367,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1368,Student 1368,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1369,Student 1369,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1370,Student 1370,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1371,Student 1371,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1372,Student 1372,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1373,Student 1373,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1374,Student 1374,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1375,Student 1375,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU1376,Student 1376,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1377,Student 1377,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1378,Student 1378,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1379,Student 1379,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1380,Student 1380,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1381,Student 1381,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1382,Student 1382,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1383,Student 1383,Engineering College A,Business,B.Tech,1,1,2023,1
+STU1384,Student 1384,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1385,Student 1385,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1386,Student 1386,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1387,Student 1387,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1388,Student 1388,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1389,Student 1389,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU1390,Student 1390,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1391,Student 1391,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1392,Student 1392,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1393,Student 1393,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1394,Student 1394,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1395,Student 1395,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1396,Student 1396,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1397,Student 1397,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1398,Student 1398,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1399,Student 1399,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1400,Student 1400,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1401,Student 1401,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1402,Student 1402,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1403,Student 1403,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1404,Student 1404,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1405,Student 1405,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1406,Student 1406,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1407,Student 1407,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1408,Student 1408,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1409,Student 1409,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1410,Student 1410,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1411,Student 1411,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1412,Student 1412,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1413,Student 1413,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU1414,Student 1414,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1415,Student 1415,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1416,Student 1416,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1417,Student 1417,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1418,Student 1418,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1419,Student 1419,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1420,Student 1420,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1421,Student 1421,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1422,Student 1422,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1423,Student 1423,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1424,Student 1424,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1425,Student 1425,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1426,Student 1426,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1427,Student 1427,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1428,Student 1428,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1429,Student 1429,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1430,Student 1430,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1431,Student 1431,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1432,Student 1432,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1433,Student 1433,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1434,Student 1434,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1435,Student 1435,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1436,Student 1436,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1437,Student 1437,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1438,Student 1438,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1439,Student 1439,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1440,Student 1440,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1441,Student 1441,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1442,Student 1442,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1443,Student 1443,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1444,Student 1444,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1445,Student 1445,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1446,Student 1446,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1447,Student 1447,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1448,Student 1448,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1449,Student 1449,Engineering College A,Business,B.Tech,1,1,2023,1
+STU1450,Student 1450,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1451,Student 1451,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1452,Student 1452,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1453,Student 1453,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1454,Student 1454,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1455,Student 1455,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1456,Student 1456,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1457,Student 1457,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1458,Student 1458,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1459,Student 1459,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1460,Student 1460,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1461,Student 1461,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1462,Student 1462,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1463,Student 1463,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1464,Student 1464,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1465,Student 1465,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1466,Student 1466,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1467,Student 1467,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1468,Student 1468,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1469,Student 1469,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1470,Student 1470,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1471,Student 1471,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1472,Student 1472,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1473,Student 1473,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU1474,Student 1474,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1475,Student 1475,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1476,Student 1476,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1477,Student 1477,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1478,Student 1478,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1479,Student 1479,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1480,Student 1480,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1481,Student 1481,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1482,Student 1482,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1483,Student 1483,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1484,Student 1484,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1485,Student 1485,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1486,Student 1486,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1487,Student 1487,Engineering College A,Business,B.Tech,1,2,2023,1
+STU1488,Student 1488,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1489,Student 1489,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1490,Student 1490,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1491,Student 1491,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1492,Student 1492,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1493,Student 1493,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1494,Student 1494,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU1495,Student 1495,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1496,Student 1496,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1497,Student 1497,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1498,Student 1498,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1499,Student 1499,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1500,Student 1500,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1501,Student 1501,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1502,Student 1502,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1503,Student 1503,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1504,Student 1504,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1505,Student 1505,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU1506,Student 1506,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1507,Student 1507,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1508,Student 1508,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1509,Student 1509,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1510,Student 1510,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1511,Student 1511,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1512,Student 1512,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1513,Student 1513,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1514,Student 1514,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1515,Student 1515,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1516,Student 1516,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1517,Student 1517,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1518,Student 1518,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1519,Student 1519,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1520,Student 1520,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1521,Student 1521,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1522,Student 1522,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1523,Student 1523,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1524,Student 1524,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1525,Student 1525,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1526,Student 1526,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1527,Student 1527,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1528,Student 1528,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1529,Student 1529,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1530,Student 1530,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1531,Student 1531,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1532,Student 1532,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1533,Student 1533,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1534,Student 1534,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1535,Student 1535,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1536,Student 1536,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1537,Student 1537,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1538,Student 1538,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1539,Student 1539,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1540,Student 1540,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1541,Student 1541,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1542,Student 1542,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1543,Student 1543,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1544,Student 1544,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1545,Student 1545,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1546,Student 1546,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1547,Student 1547,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1548,Student 1548,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1549,Student 1549,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1550,Student 1550,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1551,Student 1551,Engineering College A,Business,B.Tech,4,2,2023,1
+STU1552,Student 1552,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1553,Student 1553,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1554,Student 1554,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1555,Student 1555,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1556,Student 1556,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU1557,Student 1557,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1558,Student 1558,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1559,Student 1559,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1560,Student 1560,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1561,Student 1561,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1562,Student 1562,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1563,Student 1563,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1564,Student 1564,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1565,Student 1565,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1566,Student 1566,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU1567,Student 1567,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1568,Student 1568,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1569,Student 1569,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1570,Student 1570,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1571,Student 1571,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1572,Student 1572,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1573,Student 1573,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1574,Student 1574,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1575,Student 1575,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1576,Student 1576,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1577,Student 1577,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1578,Student 1578,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1579,Student 1579,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1580,Student 1580,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1581,Student 1581,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1582,Student 1582,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1583,Student 1583,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1584,Student 1584,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1585,Student 1585,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1586,Student 1586,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1587,Student 1587,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1588,Student 1588,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1589,Student 1589,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1590,Student 1590,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU1591,Student 1591,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1592,Student 1592,Engineering College A,Business,B.Tech,1,1,2023,1
+STU1593,Student 1593,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1594,Student 1594,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1595,Student 1595,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1596,Student 1596,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1597,Student 1597,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1598,Student 1598,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU1599,Student 1599,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1600,Student 1600,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1601,Student 1601,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1602,Student 1602,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1603,Student 1603,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1604,Student 1604,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1605,Student 1605,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1606,Student 1606,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1607,Student 1607,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1608,Student 1608,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1609,Student 1609,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1610,Student 1610,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1611,Student 1611,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1612,Student 1612,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1613,Student 1613,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1614,Student 1614,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1615,Student 1615,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1616,Student 1616,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1617,Student 1617,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1618,Student 1618,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1619,Student 1619,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1620,Student 1620,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1621,Student 1621,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1622,Student 1622,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1623,Student 1623,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1624,Student 1624,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU1625,Student 1625,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1626,Student 1626,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1627,Student 1627,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1628,Student 1628,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1629,Student 1629,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1630,Student 1630,Engineering College A,Business,B.Tech,3,2,2023,1
+STU1631,Student 1631,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1632,Student 1632,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1633,Student 1633,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1634,Student 1634,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1635,Student 1635,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU1636,Student 1636,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1637,Student 1637,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1638,Student 1638,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1639,Student 1639,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1640,Student 1640,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU1641,Student 1641,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1642,Student 1642,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU1643,Student 1643,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU1644,Student 1644,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1645,Student 1645,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1646,Student 1646,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1647,Student 1647,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1648,Student 1648,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1649,Student 1649,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1650,Student 1650,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1651,Student 1651,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1652,Student 1652,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU1653,Student 1653,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1654,Student 1654,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1655,Student 1655,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1656,Student 1656,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1657,Student 1657,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1658,Student 1658,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1659,Student 1659,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1660,Student 1660,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1661,Student 1661,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1662,Student 1662,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1663,Student 1663,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1664,Student 1664,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1665,Student 1665,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU1666,Student 1666,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1667,Student 1667,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1668,Student 1668,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1669,Student 1669,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1670,Student 1670,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1671,Student 1671,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1672,Student 1672,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1673,Student 1673,Engineering College A,Business,B.Tech,3,2,2023,1
+STU1674,Student 1674,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1675,Student 1675,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1676,Student 1676,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1677,Student 1677,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1678,Student 1678,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1679,Student 1679,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1680,Student 1680,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1681,Student 1681,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1682,Student 1682,Engineering College A,Business,B.Tech,4,2,2023,1
+STU1683,Student 1683,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1684,Student 1684,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1685,Student 1685,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1686,Student 1686,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1687,Student 1687,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1688,Student 1688,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1689,Student 1689,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1690,Student 1690,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1691,Student 1691,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1692,Student 1692,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1693,Student 1693,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1694,Student 1694,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1695,Student 1695,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1696,Student 1696,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1697,Student 1697,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU1698,Student 1698,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1699,Student 1699,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1700,Student 1700,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1701,Student 1701,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1702,Student 1702,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1703,Student 1703,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1704,Student 1704,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1705,Student 1705,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU1706,Student 1706,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1707,Student 1707,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1708,Student 1708,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1709,Student 1709,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1710,Student 1710,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU1711,Student 1711,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1712,Student 1712,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1713,Student 1713,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1714,Student 1714,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1715,Student 1715,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1716,Student 1716,Engineering College A,Business,B.Tech,2,1,2023,1
+STU1717,Student 1717,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU1718,Student 1718,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1719,Student 1719,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1720,Student 1720,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1721,Student 1721,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1722,Student 1722,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1723,Student 1723,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1724,Student 1724,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1725,Student 1725,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1726,Student 1726,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1727,Student 1727,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1728,Student 1728,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU1729,Student 1729,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1730,Student 1730,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1731,Student 1731,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1732,Student 1732,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1733,Student 1733,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1734,Student 1734,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1735,Student 1735,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1736,Student 1736,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1737,Student 1737,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1738,Student 1738,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1739,Student 1739,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1740,Student 1740,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1741,Student 1741,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU1742,Student 1742,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1743,Student 1743,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1744,Student 1744,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1745,Student 1745,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1746,Student 1746,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1747,Student 1747,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1748,Student 1748,Engineering College A,Business,B.Tech,4,2,2023,1
+STU1749,Student 1749,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1750,Student 1750,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1751,Student 1751,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1752,Student 1752,Engineering College A,Business,B.Tech,1,2,2023,1
+STU1753,Student 1753,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1754,Student 1754,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1755,Student 1755,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1756,Student 1756,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1757,Student 1757,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1758,Student 1758,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1759,Student 1759,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1760,Student 1760,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1761,Student 1761,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1762,Student 1762,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1763,Student 1763,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1764,Student 1764,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1765,Student 1765,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1766,Student 1766,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1767,Student 1767,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1768,Student 1768,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU1769,Student 1769,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1770,Student 1770,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1771,Student 1771,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1772,Student 1772,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1773,Student 1773,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1774,Student 1774,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1775,Student 1775,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1776,Student 1776,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1777,Student 1777,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1778,Student 1778,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1779,Student 1779,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU1780,Student 1780,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1781,Student 1781,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1782,Student 1782,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1783,Student 1783,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1784,Student 1784,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU1785,Student 1785,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1786,Student 1786,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1787,Student 1787,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1788,Student 1788,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1789,Student 1789,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1790,Student 1790,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1791,Student 1791,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1792,Student 1792,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1793,Student 1793,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1794,Student 1794,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1795,Student 1795,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU1796,Student 1796,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1797,Student 1797,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1798,Student 1798,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1799,Student 1799,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1800,Student 1800,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1801,Student 1801,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1802,Student 1802,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1803,Student 1803,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1804,Student 1804,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1805,Student 1805,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1806,Student 1806,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1807,Student 1807,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1808,Student 1808,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1809,Student 1809,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1810,Student 1810,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1811,Student 1811,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1812,Student 1812,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1813,Student 1813,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU1814,Student 1814,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1815,Student 1815,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1816,Student 1816,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU1817,Student 1817,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1818,Student 1818,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1819,Student 1819,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1820,Student 1820,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1821,Student 1821,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1822,Student 1822,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1823,Student 1823,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1824,Student 1824,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1825,Student 1825,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1826,Student 1826,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1827,Student 1827,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU1828,Student 1828,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1829,Student 1829,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU1830,Student 1830,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1831,Student 1831,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1832,Student 1832,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU1833,Student 1833,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1834,Student 1834,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1835,Student 1835,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1836,Student 1836,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1837,Student 1837,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1838,Student 1838,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1839,Student 1839,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1840,Student 1840,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1841,Student 1841,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1842,Student 1842,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1843,Student 1843,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1844,Student 1844,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1845,Student 1845,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1846,Student 1846,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1847,Student 1847,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1848,Student 1848,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1849,Student 1849,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1850,Student 1850,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1851,Student 1851,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1852,Student 1852,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1853,Student 1853,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1854,Student 1854,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1855,Student 1855,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1856,Student 1856,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1857,Student 1857,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1858,Student 1858,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1859,Student 1859,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1860,Student 1860,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1861,Student 1861,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU1862,Student 1862,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1863,Student 1863,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1864,Student 1864,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1865,Student 1865,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1866,Student 1866,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1867,Student 1867,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU1868,Student 1868,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1869,Student 1869,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1870,Student 1870,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1871,Student 1871,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1872,Student 1872,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1873,Student 1873,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU1874,Student 1874,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1875,Student 1875,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1876,Student 1876,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1877,Student 1877,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1878,Student 1878,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1879,Student 1879,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU1880,Student 1880,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1881,Student 1881,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU1882,Student 1882,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1883,Student 1883,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1884,Student 1884,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1885,Student 1885,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1886,Student 1886,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1887,Student 1887,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU1888,Student 1888,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU1889,Student 1889,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1890,Student 1890,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1891,Student 1891,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1892,Student 1892,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU1893,Student 1893,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1894,Student 1894,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU1895,Student 1895,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU1896,Student 1896,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1897,Student 1897,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1898,Student 1898,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU1899,Student 1899,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1900,Student 1900,Engineering College A,Business,B.Tech,4,1,2023,1
+STU1901,Student 1901,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU1902,Student 1902,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1903,Student 1903,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1904,Student 1904,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1905,Student 1905,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1906,Student 1906,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU1907,Student 1907,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU1908,Student 1908,Engineering College A,Business,B.Tech,1,2,2023,1
+STU1909,Student 1909,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1910,Student 1910,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU1911,Student 1911,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU1912,Student 1912,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1913,Student 1913,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU1914,Student 1914,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1915,Student 1915,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1916,Student 1916,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1917,Student 1917,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1918,Student 1918,Engineering College A,Business,B.Tech,2,2,2023,1
+STU1919,Student 1919,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1920,Student 1920,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1921,Student 1921,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1922,Student 1922,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1923,Student 1923,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1924,Student 1924,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU1925,Student 1925,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1926,Student 1926,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1927,Student 1927,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1928,Student 1928,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1929,Student 1929,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1930,Student 1930,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1931,Student 1931,Engineering College A,Business,B.Tech,4,2,2023,0
+STU1932,Student 1932,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1933,Student 1933,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1934,Student 1934,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU1935,Student 1935,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU1936,Student 1936,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1937,Student 1937,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU1938,Student 1938,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1939,Student 1939,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU1940,Student 1940,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU1941,Student 1941,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1942,Student 1942,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1943,Student 1943,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1944,Student 1944,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1945,Student 1945,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1946,Student 1946,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1947,Student 1947,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1948,Student 1948,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU1949,Student 1949,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1950,Student 1950,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1951,Student 1951,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1952,Student 1952,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU1953,Student 1953,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU1954,Student 1954,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU1955,Student 1955,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU1956,Student 1956,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1957,Student 1957,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU1958,Student 1958,Engineering College A,Business,B.Tech,3,1,2023,1
+STU1959,Student 1959,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1960,Student 1960,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU1961,Student 1961,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU1962,Student 1962,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1963,Student 1963,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU1964,Student 1964,Engineering College A,Mechanical,B.Tech,4,2,2023,1
+STU1965,Student 1965,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1966,Student 1966,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1967,Student 1967,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU1968,Student 1968,Engineering College A,Business,B.Tech,2,2,2023,0
+STU1969,Student 1969,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1970,Student 1970,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1971,Student 1971,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU1972,Student 1972,Engineering College A,Business,B.Tech,1,1,2023,0
+STU1973,Student 1973,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU1974,Student 1974,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1975,Student 1975,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU1976,Student 1976,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU1977,Student 1977,Engineering College A,Business,B.Tech,4,1,2023,0
+STU1978,Student 1978,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1979,Student 1979,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU1980,Student 1980,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1981,Student 1981,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1982,Student 1982,Engineering College A,Business,B.Tech,1,2,2023,0
+STU1983,Student 1983,Engineering College A,Business,B.Tech,2,1,2023,0
+STU1984,Student 1984,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU1985,Student 1985,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU1986,Student 1986,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1987,Student 1987,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU1988,Student 1988,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU1989,Student 1989,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU1990,Student 1990,Engineering College A,Business,B.Tech,3,2,2023,0
+STU1991,Student 1991,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU1992,Student 1992,Engineering College A,Business,B.Tech,3,1,2023,0
+STU1993,Student 1993,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU1994,Student 1994,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU1995,Student 1995,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU1996,Student 1996,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU1997,Student 1997,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU1998,Student 1998,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU1999,Student 1999,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2000,Student 2000,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2001,Student 2001,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2002,Student 2002,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2003,Student 2003,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU2004,Student 2004,Engineering College A,Business,B.Tech,1,2,2023,1
+STU2005,Student 2005,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2006,Student 2006,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2007,Student 2007,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2008,Student 2008,Engineering College A,Business,B.Tech,3,1,2023,1
+STU2009,Student 2009,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2010,Student 2010,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2011,Student 2011,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2012,Student 2012,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2013,Student 2013,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2014,Student 2014,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2015,Student 2015,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2016,Student 2016,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2017,Student 2017,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2018,Student 2018,Engineering College A,Business,B.Tech,4,2,2023,1
+STU2019,Student 2019,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2020,Student 2020,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU2021,Student 2021,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU2022,Student 2022,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2023,Student 2023,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU2024,Student 2024,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2025,Student 2025,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU2026,Student 2026,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2027,Student 2027,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2028,Student 2028,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU2029,Student 2029,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2030,Student 2030,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU2031,Student 2031,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2032,Student 2032,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU2033,Student 2033,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2034,Student 2034,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU2035,Student 2035,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU2036,Student 2036,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2037,Student 2037,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2038,Student 2038,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2039,Student 2039,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2040,Student 2040,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2041,Student 2041,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU2042,Student 2042,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2043,Student 2043,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2044,Student 2044,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2045,Student 2045,Engineering College A,Business,B.Tech,3,1,2023,1
+STU2046,Student 2046,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2047,Student 2047,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU2048,Student 2048,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2049,Student 2049,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2050,Student 2050,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2051,Student 2051,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2052,Student 2052,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU2053,Student 2053,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2054,Student 2054,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU2055,Student 2055,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU2056,Student 2056,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2057,Student 2057,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2058,Student 2058,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2059,Student 2059,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2060,Student 2060,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2061,Student 2061,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2062,Student 2062,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2063,Student 2063,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2064,Student 2064,Engineering College A,Business,B.Tech,1,1,2023,1
+STU2065,Student 2065,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2066,Student 2066,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2067,Student 2067,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2068,Student 2068,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2069,Student 2069,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2070,Student 2070,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2071,Student 2071,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2072,Student 2072,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2073,Student 2073,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2074,Student 2074,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU2075,Student 2075,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU2076,Student 2076,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU2077,Student 2077,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2078,Student 2078,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2079,Student 2079,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU2080,Student 2080,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU2081,Student 2081,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2082,Student 2082,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2083,Student 2083,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2084,Student 2084,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU2085,Student 2085,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2086,Student 2086,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2087,Student 2087,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2088,Student 2088,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU2089,Student 2089,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2090,Student 2090,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2091,Student 2091,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2092,Student 2092,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU2093,Student 2093,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2094,Student 2094,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2095,Student 2095,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2096,Student 2096,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2097,Student 2097,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2098,Student 2098,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2099,Student 2099,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2100,Student 2100,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2101,Student 2101,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU2102,Student 2102,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2103,Student 2103,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2104,Student 2104,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2105,Student 2105,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2106,Student 2106,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2107,Student 2107,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU2108,Student 2108,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU2109,Student 2109,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2110,Student 2110,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU2111,Student 2111,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2112,Student 2112,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU2113,Student 2113,Engineering College A,Business,B.Tech,3,1,2023,0
+STU2114,Student 2114,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2115,Student 2115,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2116,Student 2116,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2117,Student 2117,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2118,Student 2118,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2119,Student 2119,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2120,Student 2120,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU2121,Student 2121,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2122,Student 2122,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2123,Student 2123,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2124,Student 2124,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2125,Student 2125,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU2126,Student 2126,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2127,Student 2127,Engineering College A,Business,B.Tech,3,1,2023,0
+STU2128,Student 2128,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2129,Student 2129,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU2130,Student 2130,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2131,Student 2131,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU2132,Student 2132,Engineering College A,Business,B.Tech,4,2,2023,0
+STU2133,Student 2133,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2134,Student 2134,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2135,Student 2135,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU2136,Student 2136,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU2137,Student 2137,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2138,Student 2138,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2139,Student 2139,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2140,Student 2140,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU2141,Student 2141,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2142,Student 2142,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2143,Student 2143,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2144,Student 2144,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU2145,Student 2145,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2146,Student 2146,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2147,Student 2147,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2148,Student 2148,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2149,Student 2149,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2150,Student 2150,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2151,Student 2151,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU2152,Student 2152,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2153,Student 2153,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2154,Student 2154,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2155,Student 2155,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2156,Student 2156,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2157,Student 2157,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU2158,Student 2158,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2159,Student 2159,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2160,Student 2160,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2161,Student 2161,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU2162,Student 2162,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2163,Student 2163,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2164,Student 2164,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2165,Student 2165,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2166,Student 2166,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU2167,Student 2167,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU2168,Student 2168,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2169,Student 2169,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2170,Student 2170,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2171,Student 2171,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2172,Student 2172,Engineering College A,Business,B.Tech,4,2,2023,0
+STU2173,Student 2173,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2174,Student 2174,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2175,Student 2175,Engineering College A,Business,B.Tech,3,1,2023,0
+STU2176,Student 2176,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU2177,Student 2177,Engineering College A,Business,B.Tech,1,2,2023,1
+STU2178,Student 2178,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2179,Student 2179,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2180,Student 2180,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2181,Student 2181,Engineering College A,Business,B.Tech,2,1,2023,0
+STU2182,Student 2182,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2183,Student 2183,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2184,Student 2184,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2185,Student 2185,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2186,Student 2186,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU2187,Student 2187,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2188,Student 2188,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU2189,Student 2189,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2190,Student 2190,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2191,Student 2191,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2192,Student 2192,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2193,Student 2193,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2194,Student 2194,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2195,Student 2195,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2196,Student 2196,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2197,Student 2197,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2198,Student 2198,Engineering College A,Business,B.Tech,3,1,2023,1
+STU2199,Student 2199,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU2200,Student 2200,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2201,Student 2201,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU2202,Student 2202,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU2203,Student 2203,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2204,Student 2204,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2205,Student 2205,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2206,Student 2206,Engineering College A,Civil,B.Tech,3,2,2023,1
+STU2207,Student 2207,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2208,Student 2208,Engineering College A,Business,B.Tech,1,2,2023,1
+STU2209,Student 2209,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2210,Student 2210,Engineering College A,Computer Science,B.Tech,3,1,2023,1
+STU2211,Student 2211,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2212,Student 2212,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2213,Student 2213,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2214,Student 2214,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU2215,Student 2215,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2216,Student 2216,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2217,Student 2217,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2218,Student 2218,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2219,Student 2219,Engineering College A,Mechanical,B.Tech,4,1,2023,1
+STU2220,Student 2220,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2221,Student 2221,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2222,Student 2222,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU2223,Student 2223,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2224,Student 2224,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2225,Student 2225,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2226,Student 2226,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU2227,Student 2227,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2228,Student 2228,Engineering College A,Business,B.Tech,4,2,2023,0
+STU2229,Student 2229,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2230,Student 2230,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2231,Student 2231,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU2232,Student 2232,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU2233,Student 2233,Engineering College A,Business,B.Tech,4,1,2023,1
+STU2234,Student 2234,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU2235,Student 2235,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2236,Student 2236,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2237,Student 2237,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU2238,Student 2238,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU2239,Student 2239,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2240,Student 2240,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2241,Student 2241,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2242,Student 2242,Engineering College A,Electrical,B.Tech,4,2,2023,1
+STU2243,Student 2243,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2244,Student 2244,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU2245,Student 2245,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU2246,Student 2246,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU2247,Student 2247,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2248,Student 2248,Engineering College A,Mechanical,B.Tech,1,2,2023,1
+STU2249,Student 2249,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2250,Student 2250,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2251,Student 2251,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2252,Student 2252,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU2253,Student 2253,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2254,Student 2254,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2255,Student 2255,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU2256,Student 2256,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2257,Student 2257,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU2258,Student 2258,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2259,Student 2259,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2260,Student 2260,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2261,Student 2261,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU2262,Student 2262,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2263,Student 2263,Engineering College A,Computer Science,B.Tech,1,1,2023,1
+STU2264,Student 2264,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2265,Student 2265,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2266,Student 2266,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2267,Student 2267,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2268,Student 2268,Engineering College A,Business,B.Tech,1,1,2023,1
+STU2269,Student 2269,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2270,Student 2270,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU2271,Student 2271,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU2272,Student 2272,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2273,Student 2273,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2274,Student 2274,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2275,Student 2275,Engineering College A,Computer Science,B.Tech,2,1,2023,1
+STU2276,Student 2276,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2277,Student 2277,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2278,Student 2278,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2279,Student 2279,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2280,Student 2280,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2281,Student 2281,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU2282,Student 2282,Engineering College A,Business,B.Tech,3,1,2023,0
+STU2283,Student 2283,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU2284,Student 2284,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2285,Student 2285,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2286,Student 2286,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2287,Student 2287,Engineering College A,Business,B.Tech,2,2,2023,1
+STU2288,Student 2288,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU2289,Student 2289,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2290,Student 2290,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2291,Student 2291,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU2292,Student 2292,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2293,Student 2293,Engineering College A,Business,B.Tech,1,2,2023,1
+STU2294,Student 2294,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU2295,Student 2295,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2296,Student 2296,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2297,Student 2297,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2298,Student 2298,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU2299,Student 2299,Engineering College A,Electrical,B.Tech,3,1,2023,1
+STU2300,Student 2300,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2301,Student 2301,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU2302,Student 2302,Engineering College A,Business,B.Tech,1,1,2023,1
+STU2303,Student 2303,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2304,Student 2304,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2305,Student 2305,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU2306,Student 2306,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU2307,Student 2307,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU2308,Student 2308,Engineering College A,Civil,B.Tech,3,2,2023,0
+STU2309,Student 2309,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2310,Student 2310,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU2311,Student 2311,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2312,Student 2312,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU2313,Student 2313,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU2314,Student 2314,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2315,Student 2315,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU2316,Student 2316,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2317,Student 2317,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2318,Student 2318,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2319,Student 2319,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU2320,Student 2320,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2321,Student 2321,Engineering College A,Business,B.Tech,3,1,2023,1
+STU2322,Student 2322,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2323,Student 2323,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2324,Student 2324,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2325,Student 2325,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU2326,Student 2326,Engineering College A,Mechanical,B.Tech,2,2,2023,1
+STU2327,Student 2327,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2328,Student 2328,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2329,Student 2329,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2330,Student 2330,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2331,Student 2331,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU2332,Student 2332,Engineering College A,Business,B.Tech,2,1,2023,0
+STU2333,Student 2333,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2334,Student 2334,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2335,Student 2335,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU2336,Student 2336,Engineering College A,Business,B.Tech,2,1,2023,1
+STU2337,Student 2337,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2338,Student 2338,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2339,Student 2339,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU2340,Student 2340,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2341,Student 2341,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2342,Student 2342,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2343,Student 2343,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2344,Student 2344,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU2345,Student 2345,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU2346,Student 2346,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU2347,Student 2347,Engineering College A,Business,B.Tech,3,1,2023,0
+STU2348,Student 2348,Engineering College A,Business,B.Tech,1,2,2023,1
+STU2349,Student 2349,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2350,Student 2350,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU2351,Student 2351,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2352,Student 2352,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU2353,Student 2353,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2354,Student 2354,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU2355,Student 2355,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2356,Student 2356,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2357,Student 2357,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2358,Student 2358,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2359,Student 2359,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU2360,Student 2360,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2361,Student 2361,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2362,Student 2362,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2363,Student 2363,Engineering College A,Mechanical,B.Tech,2,1,2023,1
+STU2364,Student 2364,Engineering College A,Mechanical,B.Tech,4,1,2023,0
+STU2365,Student 2365,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2366,Student 2366,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2367,Student 2367,Engineering College A,Business,B.Tech,2,1,2023,0
+STU2368,Student 2368,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU2369,Student 2369,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2370,Student 2370,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2371,Student 2371,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2372,Student 2372,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU2373,Student 2373,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2374,Student 2374,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU2375,Student 2375,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2376,Student 2376,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2377,Student 2377,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2378,Student 2378,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2379,Student 2379,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2380,Student 2380,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2381,Student 2381,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2382,Student 2382,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU2383,Student 2383,Engineering College A,Electrical,B.Tech,3,2,2023,1
+STU2384,Student 2384,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2385,Student 2385,Engineering College A,Computer Science,B.Tech,2,2,2023,1
+STU2386,Student 2386,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2387,Student 2387,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2388,Student 2388,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2389,Student 2389,Engineering College A,Electrical,B.Tech,1,1,2023,1
+STU2390,Student 2390,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2391,Student 2391,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2392,Student 2392,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU2393,Student 2393,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2394,Student 2394,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2395,Student 2395,Engineering College A,Computer Science,B.Tech,3,2,2023,1
+STU2396,Student 2396,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU2397,Student 2397,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU2398,Student 2398,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2399,Student 2399,Engineering College A,Business,B.Tech,1,1,2023,1
+STU2400,Student 2400,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2401,Student 2401,Engineering College A,Civil,B.Tech,1,2,2023,1
+STU2402,Student 2402,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2403,Student 2403,Engineering College A,Mechanical,B.Tech,1,1,2023,1
+STU2404,Student 2404,Engineering College A,Electrical,B.Tech,3,2,2023,0
+STU2405,Student 2405,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2406,Student 2406,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2407,Student 2407,Engineering College A,Mechanical,B.Tech,4,2,2023,0
+STU2408,Student 2408,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU2409,Student 2409,Engineering College A,Mechanical,B.Tech,3,1,2023,1
+STU2410,Student 2410,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2411,Student 2411,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2412,Student 2412,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2413,Student 2413,Engineering College A,Civil,B.Tech,3,1,2023,0
+STU2414,Student 2414,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2415,Student 2415,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2416,Student 2416,Engineering College A,Civil,B.Tech,1,1,2023,1
+STU2417,Student 2417,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2418,Student 2418,Engineering College A,Computer Science,B.Tech,4,1,2023,0
+STU2419,Student 2419,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2420,Student 2420,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2421,Student 2421,Engineering College A,Civil,B.Tech,4,2,2023,0
+STU2422,Student 2422,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2423,Student 2423,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2424,Student 2424,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2425,Student 2425,Engineering College A,Business,B.Tech,1,2,2023,1
+STU2426,Student 2426,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU2427,Student 2427,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2428,Student 2428,Engineering College A,Civil,B.Tech,2,2,2023,1
+STU2429,Student 2429,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2430,Student 2430,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU2431,Student 2431,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2432,Student 2432,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2433,Student 2433,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU2434,Student 2434,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2435,Student 2435,Engineering College A,Electrical,B.Tech,2,2,2023,1
+STU2436,Student 2436,Engineering College A,Civil,B.Tech,2,1,2023,0
+STU2437,Student 2437,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2438,Student 2438,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2439,Student 2439,Engineering College A,Electrical,B.Tech,2,1,2023,0
+STU2440,Student 2440,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2441,Student 2441,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2442,Student 2442,Engineering College A,Civil,B.Tech,4,1,2023,0
+STU2443,Student 2443,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2444,Student 2444,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2445,Student 2445,Engineering College A,Computer Science,B.Tech,4,2,2023,0
+STU2446,Student 2446,Engineering College A,Electrical,B.Tech,4,1,2023,0
+STU2447,Student 2447,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2448,Student 2448,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2449,Student 2449,Engineering College A,Business,B.Tech,4,1,2023,0
+STU2450,Student 2450,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2451,Student 2451,Engineering College A,Mechanical,B.Tech,3,2,2023,0
+STU2452,Student 2452,Engineering College A,Business,B.Tech,3,2,2023,0
+STU2453,Student 2453,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2454,Student 2454,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2455,Student 2455,Engineering College A,Civil,B.Tech,1,2,2023,0
+STU2456,Student 2456,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2457,Student 2457,Engineering College A,Computer Science,B.Tech,2,2,2023,0
+STU2458,Student 2458,Engineering College A,Business,B.Tech,1,2,2023,0
+STU2459,Student 2459,Engineering College A,Business,B.Tech,2,1,2023,0
+STU2460,Student 2460,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2461,Student 2461,Engineering College A,Electrical,B.Tech,1,2,2023,1
+STU2462,Student 2462,Engineering College A,Business,B.Tech,4,1,2023,1
+STU2463,Student 2463,Engineering College A,Mechanical,B.Tech,1,1,2023,0
+STU2464,Student 2464,Engineering College A,Mechanical,B.Tech,3,1,2023,0
+STU2465,Student 2465,Engineering College A,Business,B.Tech,1,1,2023,0
+STU2466,Student 2466,Engineering College A,Mechanical,B.Tech,2,1,2023,0
+STU2467,Student 2467,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2468,Student 2468,Engineering College A,Computer Science,B.Tech,2,1,2023,0
+STU2469,Student 2469,Engineering College A,Business,B.Tech,4,2,2023,0
+STU2470,Student 2470,Engineering College A,Electrical,B.Tech,4,2,2023,0
+STU2471,Student 2471,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2472,Student 2472,Engineering College A,Computer Science,B.Tech,4,1,2023,1
+STU2473,Student 2473,Engineering College A,Business,B.Tech,4,2,2023,1
+STU2474,Student 2474,Engineering College A,Civil,B.Tech,1,1,2023,0
+STU2475,Student 2475,Engineering College A,Mechanical,B.Tech,1,2,2023,0
+STU2476,Student 2476,Engineering College A,Computer Science,B.Tech,4,2,2023,1
+STU2477,Student 2477,Engineering College A,Civil,B.Tech,4,2,2023,1
+STU2478,Student 2478,Engineering College A,Electrical,B.Tech,1,2,2023,0
+STU2479,Student 2479,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU2480,Student 2480,Engineering College A,Business,B.Tech,4,1,2023,1
+STU2481,Student 2481,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2482,Student 2482,Engineering College A,Electrical,B.Tech,4,1,2023,1
+STU2483,Student 2483,Engineering College A,Civil,B.Tech,3,1,2023,1
+STU2484,Student 2484,Engineering College A,Business,B.Tech,2,2,2023,0
+STU2485,Student 2485,Engineering College A,Computer Science,B.Tech,3,1,2023,0
+STU2486,Student 2486,Engineering College A,Civil,B.Tech,4,1,2023,1
+STU2487,Student 2487,Engineering College A,Computer Science,B.Tech,1,1,2023,0
+STU2488,Student 2488,Engineering College A,Civil,B.Tech,2,1,2023,1
+STU2489,Student 2489,Engineering College A,Computer Science,B.Tech,1,2,2023,0
+STU2490,Student 2490,Engineering College A,Civil,B.Tech,2,2,2023,0
+STU2491,Student 2491,Engineering College A,Electrical,B.Tech,1,1,2023,0
+STU2492,Student 2492,Engineering College A,Mechanical,B.Tech,2,2,2023,0
+STU2493,Student 2493,Engineering College A,Electrical,B.Tech,2,2,2023,0
+STU2494,Student 2494,Engineering College A,Computer Science,B.Tech,3,2,2023,0
+STU2495,Student 2495,Engineering College A,Business,B.Tech,1,1,2023,1
+STU2496,Student 2496,Engineering College A,Electrical,B.Tech,3,1,2023,0
+STU2497,Student 2497,Engineering College A,Mechanical,B.Tech,3,2,2023,1
+STU2498,Student 2498,Engineering College A,Computer Science,B.Tech,1,2,2023,1
+STU2499,Student 2499,Engineering College A,Electrical,B.Tech,2,1,2023,1
+STU2500,Student 2500,Engineering College A,Civil,B.Tech,3,2,2023,0

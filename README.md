@@ -23,7 +23,7 @@ EduShield uses a modular monolith architecture suitable for a hackathon:
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS, Recharts
 - **Backend**: Python, FastAPI, Pydantic
 - **Machine Learning**: Python, scikit-learn, XGBoost, SHAP
-- **Database**: PostgreSQL
+- **Database**: SQLite
 
 ## Repository Structure
 - `/frontend`: React web application

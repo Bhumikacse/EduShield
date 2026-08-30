@@ -11,3 +11,20 @@ venv/
 .vscode/
 data/raw/
 data/processed/
+
+# Local Tooling & Caches
+conda_env/
+frontend_node/
+uv.exe
+uv.zip
+uv_install/
+node/
+
+# Database
+edushield_mvp.db
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
