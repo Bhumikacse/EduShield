@@ -5,6 +5,7 @@ import { api } from '../services/api';
 import { StudentDetail, RiskPrediction, Intervention } from '../types';
 import { RiskBadge } from '../components/RiskBadge';
 import { InterventionModal } from '../components/InterventionModal';
+import { OutcomeModal } from '../components/OutcomeModal';
 
 export function StudentProfile() {
   const { id } = useParams<{ id: string }>();
@@ -19,6 +20,7 @@ export function StudentProfile() {
   const [error, setError] = useState('');
   
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [outcomeTarget, setOutcomeTarget] = useState<Intervention | null>(null);
 
   const loadData = async () => {
     if (!id) return;
@@ -272,6 +274,33 @@ export function StudentProfile() {
                     <div className="mt-1 text-xs text-gray-600">
                       Status: <span className="font-medium">{inv.status}</span> • Counselor: {inv.assigned_counselor}
                     </div>
+
+                    {inv.outcomes && inv.outcomes.length > 0 && (
+                      <div className="mt-2 space-y-2">
+                        {inv.outcomes.map((o) => (
+                          <div key={o.outcome_id} className="bg-gray-50 border border-gray-200 rounded p-2">
+                            <div className="flex items-center justify-between">
+                              <span className="text-xs font-medium text-gray-700 capitalize">
+                                Outcome: {o.outcome_status.replace(/_/g, ' ').toLowerCase()}
+                              </span>
+                              <span className="text-[11px] text-gray-400">{new Date(o.recorded_at).toLocaleDateString()}</span>
+                            </div>
+                            {o.outcome_notes && (
+                              <p className="mt-1 text-xs text-gray-600">{o.outcome_notes}</p>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
+                    {inv.status !== 'COMPLETED' && inv.status !== 'CANCELLED' && (
+                      <button
+                        onClick={() => setOutcomeTarget(inv)}
+                        className="mt-2 text-xs font-medium text-brand-600 hover:text-brand-800"
+                      >
+                        + Record outcome / follow-up
+                      </button>
+                    )}
                   </div>
                 ))}
               </div>
@@ -283,13 +312,22 @@ export function StudentProfile() {
         </div>
       </div>
 
-      <InterventionModal 
+      <InterventionModal
         studentId={student.student_id}
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         onSuccess={loadData}
         recommendedInterventions={recommendations}
       />
+
+      {outcomeTarget && (
+        <OutcomeModal
+          intervention={outcomeTarget}
+          isOpen={!!outcomeTarget}
+          onClose={() => setOutcomeTarget(null)}
+          onSuccess={loadData}
+        />
+      )}
     </div>
   );
 }

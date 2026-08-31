@@ -68,10 +68,24 @@ class InterventionCreate(BaseModel):
     follow_up_date: Optional[datetime] = None
     counselor_notes: Optional[str] = None
 
+class OutcomeResponse(BaseModel):
+    outcome_id: int
+    outcome_status: str
+    risk_score_after: Optional[float] = None
+    attendance_after: Optional[float] = None
+    academic_performance_after: Optional[float] = None
+    engagement_after: Optional[int] = None
+    outcome_notes: Optional[str] = None
+    recorded_at: datetime
+
+    class Config:
+        from_attributes = True
+
 class InterventionResponse(InterventionCreate):
     intervention_id: int
     status: str
     created_at: datetime
+    outcomes: List[OutcomeResponse] = []
 
     class Config:
         from_attributes = True

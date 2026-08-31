@@ -21,6 +21,7 @@ uv.exe
 uv.zip
 uv_install/
 node/
+.claude/
 
 # Database
 edushield_mvp.db
