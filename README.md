@@ -14,10 +14,13 @@ EduShield identifies college students showing an elevated risk of permanent with
 ## Current MVP
 This hackathon MVP includes:
 - College-level student monitoring
-- Dropout-risk prediction
-- Counselor dashboard
+- Dropout-risk prediction with Low/Medium/High classification
+- Risk trajectory indicators (increasing/stable/decreasing)
 - Explainable risk signals (SHAP factors)
-- Intervention management
+- Counselor dashboard
+- Student risk profile
+- Intervention recommendation and creation
+- Intervention follow-up and outcome tracking
 - Student support portal
 - Counseling requests
 

@@ -144,7 +144,10 @@ def generate_prediction(
             continue
             
         # Clean feature name and map to human-readable format
-        raw_fname = feature_names[i].replace("num__", "").replace("cat__", "")
+        if i < len(feature_names):
+            raw_fname = feature_names[i].replace("num__", "").replace("cat__", "")
+        else:
+            raw_fname = f"feature_{i}"
         # Remove any one-hot suffix like department_Civil
         clean_fname = raw_fname.split("_")[0] if "department_" in raw_fname else raw_fname
         clean_fname = clean_fname.split("_")[0] if "degree_" in clean_fname else clean_fname
@@ -189,14 +192,14 @@ def generate_prediction(
         db.refresh(prediction)
         prediction_date = prediction.prediction_date
 
-        return RiskPrediction(
-            student_id=student_id,
-            risk_score=risk_score,
-            risk_level=risk_level,
-            trajectory=trajectory,
-            prediction_horizon="NEXT_ACADEMIC_PERIOD",
-            risk_factors=top_factors,
-            protective_factors=top_protective,
-            model_version="v1",
-            prediction_date=prediction_date
-        )
+    return RiskPrediction(
+        student_id=student_id,
+        risk_score=risk_score,
+        risk_level=risk_level,
+        trajectory=trajectory,
+        prediction_horizon="NEXT_ACADEMIC_PERIOD",
+        risk_factors=top_factors,
+        protective_factors=top_protective,
+        model_version="v1",
+        prediction_date=prediction_date
+    )

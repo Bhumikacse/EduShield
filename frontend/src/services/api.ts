@@ -1,4 +1,4 @@
-import { DashboardStats, StudentBase, StudentDetail, RiskPrediction, Intervention, InterventionCreate } from '../types';
+import { DashboardStats, StudentBase, StudentDetail, RiskPrediction, Intervention, InterventionCreate, OutcomeCreate } from '../types';
 
 const API_BASE_URL =
   import.meta.env.VITE_API_URL || 'http://localhost:8000';
@@ -36,6 +36,13 @@ export const api = {
 
   createIntervention: (payload: InterventionCreate) =>
     fetchJson<Intervention>('/interventions', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    }),
+
+  createOutcome: (interventionId: number, payload: OutcomeCreate) =>
+    fetchJson<{ status: string; outcome_id: number }>(`/interventions/${interventionId}/outcome`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)

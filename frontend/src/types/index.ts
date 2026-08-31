@@ -57,6 +57,17 @@ export interface DashboardStats {
   active_interventions: number;
 }
 
+export interface Outcome {
+  outcome_id: number;
+  outcome_status: string;
+  risk_score_after?: number;
+  attendance_after?: number;
+  academic_performance_after?: number;
+  engagement_after?: number;
+  outcome_notes?: string;
+  recorded_at: string;
+}
+
 export interface Intervention {
   intervention_id: number;
   student_id: string;
@@ -67,6 +78,7 @@ export interface Intervention {
   follow_up_date: string;
   created_at: string;
   counselor_notes?: string;
+  outcomes?: Outcome[];
 }
 
 export interface InterventionCreate {
@@ -76,6 +88,15 @@ export interface InterventionCreate {
   assigned_counselor: string;
   follow_up_date: string;
   counselor_notes: string;
+}
+
+export interface OutcomeCreate {
+  outcome_status: string;
+  risk_score_after?: number;
+  attendance_after?: number;
+  academic_performance_after?: number;
+  engagement_after?: number;
+  outcome_notes?: string;
 }
 
 export interface CounselingRequestCreate {
